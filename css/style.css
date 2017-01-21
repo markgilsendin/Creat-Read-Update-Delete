@@ -1,0 +1,31 @@
+.title-Add-Record{
+	text-align:center;
+	font-size:40px;
+	margin-top:40px;
+}
+.view-container{
+	margin-top:50px;
+}
+.btn-Add{
+	margin-top:30px;
+	margin-bottom:30px;
+
+}
+.custom-table{
+	width:100%;
+	word-wrap: break-word;
+}
+th{
+	text-align:center;
+	width:20%;
+}
+
+td{
+	text-align:center;
+}
+.btn-update{
+	margin-bottom:5px;
+}
+.btn-delete{
+	margin-bottom:5px;
+}

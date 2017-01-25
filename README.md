@@ -1,1 +1,1 @@
-# Creat-Read-Update-Delete Database in php and mysql
+# Create-Read-Update-Delete Database in php and mysql
